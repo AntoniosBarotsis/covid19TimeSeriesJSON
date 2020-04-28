@@ -8,10 +8,10 @@ const shell =  require('shelljs');
 const remote = `https://${USER}:${PASS}@${REPO}`;
 
 require('simple-git')()
-.add('./*')
-.commit("Update")
-.addRemote('origin', 'some-repo-url')
-.push(['-u', 'origin', 'master'], () => console.log('done'));
+     .add('./*')
+     .commit("first commit!")
+     .addRemote('origin', 'some-repo-url')
+     .push(['-u', 'origin', 'master'], () => console.log('done'));
 
 
 // shell.exec('chmod +x test.sh')
