@@ -10,7 +10,7 @@ const remote = `https://${USER}:${PASS}@${REPO}`;
 
 // const simpleGit = require('simple-git')();
 // const simpleGitPromise = require('simple-git/promise')();
-
+//a
 require('simple-git')()
      .add('./*')
      .commit("A!")
