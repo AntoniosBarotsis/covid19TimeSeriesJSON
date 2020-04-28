@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "shelljs": "^0.8.4"
+    "dotenv": "^8.2.0",
+    "shelljs": "^0.8.4",
+    "simple-git": "^2.1.0"
   }
 }
