@@ -12,6 +12,7 @@ const remote = `https://${USER}:${PASS}@${REPO}`;
 // const simpleGitPromise = require('simple-git/promise')();
 
 require('simple-git')()
+     .init()
      .add('./*')
      .commit("first commit!")
      .addRemote('origin', 'https://github.com/AntoniosBarotsis/covid19TimeSeriesJSON.git')
