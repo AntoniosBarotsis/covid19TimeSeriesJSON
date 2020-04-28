@@ -36,7 +36,12 @@ Promise.all(urlData).then(arr => {
         size: 4
     }
 
-    fs.writeFileSync('data/timeSeriesCovid19.json', jsonFormat(getDays(arr), config))
+    fs.writeFile('data/timeSeriesCovid19.json', jsonFormat(getDays(arr), config), (err) => {
+        if (err) {
+            console.error(err)
+        }
+        console.log('Done')
+    })
 }).catch(err => {
     console.error(err)
     fs.writeFileSync('data/timeSeriesCovid19.json', '{}')

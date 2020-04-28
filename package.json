@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "json-format": "^1.0.1",
+    "node-cron": "^2.0.3",
     "request": "^2.88.2",
     "scramjet": "^4.28.7",
     "shelljs": "^0.8.4",
