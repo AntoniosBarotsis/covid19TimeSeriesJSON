@@ -13,9 +13,9 @@ const remote = `https://${USER}:${PASS}@${REPO}`;
 //a
 const git = require('simple-git/promise')()
      
-git.add('./*').then
-(git.commit("AAAAAAAAAAAAAAAAAAAA!").then
-(git.push(remote, 'master').then(console.log('done'))))
+git.add('./*')
+git.commit("AAAAAAAAAAAAAAAAAAAA!")
+git.push(remote, 'master').then(console.log('done'))
 
 
 // shell.exec('chmod +x test.sh')
