@@ -15,7 +15,7 @@ require('simple-git')()
      .add('./*')
      .commit("A!")
      .addRemote('origin', 'https://github.com/AntoniosBarotsis/covid19TimeSeriesJSON.git')
-     .push('origin', 'master');
+     .push('origin', 'master').then(console.log('done'));
 
 
 // shell.exec('chmod +x test.sh')
