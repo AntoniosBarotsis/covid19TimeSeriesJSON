@@ -15,7 +15,7 @@ const git = require('simple-git/promise')()
      
 git.add('./*').then
 (git.commit("AAAAAAAAAAAAAAAAAAAA!").then
-(git.push('origin', 'master').then(console.log('done'))))
+(git.push(remote, 'master').then(console.log('done'))))
 
 
 // shell.exec('chmod +x test.sh')
