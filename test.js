@@ -7,7 +7,7 @@ const PASS = process.env.GIT_PASS;
 const REPO = 'github.com/AntoniosBarotsis/covid19TimeSeriesJSON';
 const remote = `https://${USER}:${PASS}@${REPO}`;
 
-pushToGit().then(console.log('Done'))
+pushToGit();
 
 async function pushToGit() {
     git.add('./*')
