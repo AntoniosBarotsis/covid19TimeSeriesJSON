@@ -6,6 +6,8 @@ const REPO = 'github.com/AntoniosBarotsis/covid19TimeSeriesJSON';
 
 const shell =  require('shelljs');
 const remote = `https://${USER}:${PASS}@${REPO}`;
+console.log(remote);
+
 
 // const simpleGit = require('simple-git')();
 // const simpleGitPromise = require('simple-git/promise')();
