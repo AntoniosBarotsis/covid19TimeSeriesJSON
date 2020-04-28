@@ -7,10 +7,13 @@ const REPO = 'github.com/AntoniosBarotsis/covid19TimeSeriesJSON';
 const shell =  require('shelljs');
 const remote = `https://${USER}:${PASS}@${REPO}`;
 
+// const simpleGit = require('simple-git')();
+// const simpleGitPromise = require('simple-git/promise')();
+
 require('simple-git')()
-     .add('./*')
+     .add('.')
      .commit("first commit!")
-     .addRemote('origin', 'some-repo-url')
+     .addRemote('origin', remote)
      .push(['-u', 'origin', 'master'], () => console.log('done'));
 
 
