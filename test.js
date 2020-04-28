@@ -11,11 +11,12 @@ const remote = `https://${USER}:${PASS}@${REPO}`;
 // const simpleGit = require('simple-git')();
 // const simpleGitPromise = require('simple-git/promise')();
 //a
-require('simple-git')()
-     .add('./*')
-     .commit("A!")
-     .addRemote('origin', 'https://github.com/AntoniosBarotsis/covid19TimeSeriesJSON.git')
-     .push('origin', 'master').then(console.log('done'));
+const git = require('simple-git/promise')()
+     
+git.add('./*').then
+(git.commit("AAAAAAAAAAAAAAAAAAAA!").then
+(git.addRemote('origin', 'https://github.com/AntoniosBarotsis/covid19TimeSeriesJSON.git')).then
+(git.push('origin', 'master').then(console.log('done'))))
 
 
 // shell.exec('chmod +x test.sh')
