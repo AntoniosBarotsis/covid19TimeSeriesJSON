@@ -15,7 +15,6 @@ const git = require('simple-git/promise')()
      
 git.add('./*').then
 (git.commit("AAAAAAAAAAAAAAAAAAAA!").then
-(git.addRemote('origin', 'https://github.com/AntoniosBarotsis/covid19TimeSeriesJSON.git')).then
 (git.push('origin', 'master').then(console.log('done'))))
 
 
