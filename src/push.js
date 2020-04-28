@@ -11,6 +11,6 @@ pushToGit()
 
 async function pushToGit () {
     git.add('./*')
-    git.commit('Update')
+    git.commit(`Update ${new Date().toLocaleString()}`)
     git.push(remote, 'master')
 }
