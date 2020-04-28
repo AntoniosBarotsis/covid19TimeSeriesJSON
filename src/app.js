@@ -126,3 +126,4 @@ class DataDay {
         this.recoveredValuesChange = recoveredValuesChange
     }
 }
+// Sort this by number of confirmed cases

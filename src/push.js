@@ -11,6 +11,6 @@ pushToGit()
 
 async function pushToGit () {
     git.add('./*')
-    git.commit('AAAAAAAAAAAAAAAAAAAA!')
+    git.commit('Update')
     git.push(remote, 'master')
 }

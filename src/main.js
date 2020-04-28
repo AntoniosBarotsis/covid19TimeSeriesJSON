@@ -16,6 +16,6 @@ cron.schedule('0 0 0 * * *', () => {
 
     if (lastUpdate.toString() === currentUpdate.toString()) {
         console.log('Updating...')
-        shell.exec('npm start')
+        shell.exec('npm run download')
     }
 })
