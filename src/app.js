@@ -48,39 +48,19 @@ Promise.all(urlData).then(arr => {
 })
 
 function getDays (arr) {
-    const dates = arr[0][0].slice(4)
-    const data = []
+    const dates = arr[0]
+    const finalData = []
 
-    for (let i = 1; i < arr[0].length; i++) {
-        let confirmedValues
-        let deathValues
-        let recoveredValues
-        let confirmedValuesChange
-        let deathValuesChange
-        let recoveredValuesChange
+    for (let i = 1; i < arr.length; i++) {
+        const data = []
 
-        const state = arr[0][i][0]
-        const country = arr[0][i][1]
-
-        // eslint-disable-next-line prefer-const
-        confirmedValues = (numberify(arr[0][i].slice(4)))
-        // eslint-disable-next-line prefer-const
-        confirmedValuesChange = (getChange(numberify(arr[0][i].slice(4))))
-
-        if (arr[1][i]) {
-            deathValues = numberify(arr[1][i].slice(4))
-            deathValuesChange = (getChange(numberify(arr[1][i].slice(4))))
+        for (let j = 4; j < arr[0].length; j++) { // confirmed
+            data.push(new Date(dates[0][j], arr[0][i][j], arr[1][i][j], arr[2][i][j]))
         }
-
-        if (arr[2][i]) {
-            recoveredValues = numberify(arr[2][i].slice(4))
-            recoveredValuesChange = (getChange(numberify(arr[2][i].slice(4))))
-        }
-
-        data.push(new DataCountry(state, country, new DataDay(dates, confirmedValues, confirmedValuesChange, deathValues,
-            deathValuesChange, recoveredValues, recoveredValuesChange)))
+        finalData.push(new DataCountry(arr[0][i][0], arr[0][i][1], data))
     }
-    return data
+
+    return finalData
 }
 
 function getChange (arr) {
@@ -108,22 +88,19 @@ function numberify (arr) {
 }
 
 class DataCountry {
-    constructor (state, country, Data) {
+    constructor (state, country, Dates) {
         this.state = state
         this.country = country
-        this.Data = Data
+        this.Dates = Dates
     }
 }
 
-class DataDay {
-    constructor (date, confirmedValues, confirmedValuesChange, deathValues, deathValuesChange, recoveredValues, recoveredValuesChange) {
+class Date {
+    constructor (date, confirmedValues, deathValues, recoveredValues) {
         this.date = date
-        this.confirmedValues = confirmedValues
-        this.confirmedValuesChange = confirmedValuesChange
-        this.deathValues = deathValues
-        this.deathValuesChange = deathValuesChange
-        this.recoveredValues = recoveredValues
-        this.recoveredValuesChange = recoveredValuesChange
+        this.confirmedValues = confirmedValues || 0
+        this.deathValues = deathValues || 0
+        this.recoveredValues = recoveredValues || 0
     }
 }
 // Sort this by number of confirmed cases
