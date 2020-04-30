@@ -49,48 +49,28 @@ Promise.all(urlData).then(arr => {
 
 function getDays (arr) {
     const dates = arr[0]
-    const finalData = []
+    const finalData = {}
 
-    for (let i = 1; i < arr.length; i++) {
+    for (let i = 1; i < arr[0].length; i++) {
         const data = []
 
-        for (let j = 4; j < arr[0].length; j++) { // confirmed
-            data.push(new Date(dates[0][j], arr[0][i][j], arr[1][i][j], arr[2][i][j]))
+        for (let j = 4; j < arr[0][i].length; j++) { // confirmed
+            data.push(new Date(dates[0][j], parseInt(arr[0][i][j]), parseInt(arr[1][i][j]), arr[2][i] ? parseInt(arr[2][i][j]) : 0))
         }
-        finalData.push(new DataCountry(arr[0][i][0], arr[0][i][1], data))
+        finalData[arr[0][i][1]] = new CountryObj(arr[0][i][0], new DataCountry(data))
     }
 
     return finalData
 }
 
-function getChange (arr) {
-    const res = []
-
-    for (let i = 0; i < arr.length; i++) {
-        if (i === 0) {
-            res.push(0)
-        } else {
-            res.push(arr[i] - arr[i - 1])
-        }
-    }
-
-    return res
-}
-
-function numberify (arr) {
-    const res = []
-
-    for (let i = 0; i < arr.length; i++) {
-        res[i] = parseInt(arr[i])
-    }
-
-    return res
-}
-
-class DataCountry {
-    constructor (state, country, Dates) {
+class CountryObj {
+    constructor (state, data) {
         this.state = state
-        this.country = country
+        this.data = data
+    }
+}
+class DataCountry {
+    constructor (Dates) {
         this.Dates = Dates
     }
 }
