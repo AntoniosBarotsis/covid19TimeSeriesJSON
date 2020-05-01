@@ -596,6 +596,12 @@
                     "confirmedValues": 1939,
                     "deathValues": 60,
                     "recoveredValues": 252
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2171,
+                    "deathValues": 64,
+                    "recoveredValues": 260
                 }
             ]
         }
@@ -1197,6 +1203,12 @@
                     "confirmedValues": 766,
                     "deathValues": 30,
                     "recoveredValues": 455
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 773,
+                    "deathValues": 31,
+                    "recoveredValues": 470
                 }
             ]
         }
@@ -1798,6 +1810,12 @@
                     "confirmedValues": 3848,
                     "deathValues": 444,
                     "recoveredValues": 1702
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 4006,
+                    "deathValues": 450,
+                    "recoveredValues": 1779
                 }
             ]
         }
@@ -2399,6 +2417,12 @@
                     "confirmedValues": 743,
                     "deathValues": 42,
                     "recoveredValues": 423
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 745,
+                    "deathValues": 42,
+                    "recoveredValues": 468
                 }
             ]
         }
@@ -2997,6 +3021,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 27,
+                    "deathValues": 2,
+                    "recoveredValues": 7
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 27,
                     "deathValues": 2,
                     "recoveredValues": 7
@@ -3601,6 +3631,12 @@
                     "confirmedValues": 24,
                     "deathValues": 3,
                     "recoveredValues": 11
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 24,
+                    "deathValues": 3,
+                    "recoveredValues": 11
                 }
             ]
         }
@@ -4202,6 +4238,12 @@
                     "confirmedValues": 4285,
                     "deathValues": 214,
                     "recoveredValues": 1192
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 4428,
+                    "deathValues": 218,
+                    "recoveredValues": 1256
                 }
             ]
         }
@@ -4803,6 +4845,12 @@
                     "confirmedValues": 1932,
                     "deathValues": 30,
                     "recoveredValues": 900
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2066,
+                    "deathValues": 32,
+                    "recoveredValues": 929
                 }
             ]
         }
@@ -5401,6 +5449,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 551,
+                    "deathValues": 8,
+                    "recoveredValues": 507
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 551,
                     "deathValues": 8,
                     "recoveredValues": 507
@@ -6005,6 +6059,12 @@
                     "confirmedValues": 15402,
                     "deathValues": 580,
                     "recoveredValues": 12779
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 15452,
+                    "deathValues": 584,
+                    "recoveredValues": 12907
                 }
             ]
         }
@@ -6606,6 +6666,12 @@
                     "confirmedValues": 1766,
                     "deathValues": 23,
                     "recoveredValues": 1267
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1804,
+                    "deathValues": 24,
+                    "recoveredValues": 1325
                 }
             ]
         }
@@ -7207,6 +7273,12 @@
                     "confirmedValues": 80,
                     "deathValues": 11,
                     "recoveredValues": 23
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 81,
+                    "deathValues": 11,
+                    "recoveredValues": 25
                 }
             ]
         }
@@ -7808,6 +7880,12 @@
                     "confirmedValues": 2921,
                     "deathValues": 8,
                     "recoveredValues": 1455
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 3040,
+                    "deathValues": 8,
+                    "recoveredValues": 1500
                 }
             ]
         }
@@ -8409,6 +8487,12 @@
                     "confirmedValues": 7103,
                     "deathValues": 163,
                     "recoveredValues": 150
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 7667,
+                    "deathValues": 168,
+                    "recoveredValues": 160
                 }
             ]
         }
@@ -9008,6 +9092,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 80,
+                    "deathValues": 7,
+                    "recoveredValues": 39
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 81,
                     "deathValues": 7,
                     "recoveredValues": 39
                 }
@@ -9611,6 +9701,12 @@
                     "confirmedValues": 13181,
                     "deathValues": 84,
                     "recoveredValues": 2072
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 14027,
+                    "deathValues": 89,
+                    "recoveredValues": 2386
                 }
             ]
         }
@@ -10212,6 +10308,12 @@
                     "confirmedValues": 47859,
                     "deathValues": 7501,
                     "recoveredValues": 11283
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 48519,
+                    "deathValues": 7594,
+                    "recoveredValues": 11576
                 }
             ]
         }
@@ -10810,6 +10912,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 64,
+                    "deathValues": 1,
+                    "recoveredValues": 9
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 64,
                     "deathValues": 1,
                     "recoveredValues": 9
@@ -11414,6 +11522,12 @@
                     "confirmedValues": 7,
                     "deathValues": 0,
                     "recoveredValues": 33
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 7,
+                    "deathValues": 0,
+                    "recoveredValues": 33
                 }
             ]
         }
@@ -12012,6 +12126,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 1110,
+                    "deathValues": 59,
+                    "recoveredValues": 5
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 1110,
                     "deathValues": 59,
                     "recoveredValues": 5
@@ -12616,6 +12736,12 @@
                     "confirmedValues": 1677,
                     "deathValues": 65,
                     "recoveredValues": 117
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1757,
+                    "deathValues": 69,
+                    "recoveredValues": 117
                 }
             ]
         }
@@ -13217,6 +13343,12 @@
                     "confirmedValues": 79685,
                     "deathValues": 5513,
                     "recoveredValues": 710
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 87187,
+                    "deathValues": 6006,
+                    "recoveredValues": 727
                 }
             ]
         }
@@ -13818,6 +13950,12 @@
                     "confirmedValues": 138,
                     "deathValues": 1,
                     "recoveredValues": 34132
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 138,
+                    "deathValues": 1,
+                    "recoveredValues": 35935
                 }
             ]
         }
@@ -14418,6 +14556,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 1447,
                     "deathValues": 64,
+                    "recoveredValues": 124
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1506,
+                    "deathValues": 66,
                     "recoveredValues": 124
                 }
             ]
@@ -15020,6 +15164,12 @@
                     "confirmedValues": 641,
                     "deathValues": 43,
                     "recoveredValues": 243
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 645,
+                    "deathValues": 43,
+                    "recoveredValues": 266
                 }
             ]
         }
@@ -15621,6 +15771,12 @@
                     "confirmedValues": 114,
                     "deathValues": 1,
                     "recoveredValues": 498
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 121,
+                    "deathValues": 1,
+                    "recoveredValues": 506
                 }
             ]
         }
@@ -16222,6 +16378,12 @@
                     "confirmedValues": 122,
                     "deathValues": 0,
                     "recoveredValues": 2
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 122,
+                    "deathValues": 0,
+                    "recoveredValues": 4
                 }
             ]
         }
@@ -16820,6 +16982,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 1832,
+                    "deathValues": 61,
+                    "recoveredValues": 119
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 1832,
                     "deathValues": 61,
                     "recoveredValues": 119
@@ -17424,6 +17592,12 @@
                     "confirmedValues": 11,
                     "deathValues": 0,
                     "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 11,
+                    "deathValues": 0,
+                    "recoveredValues": 0
                 }
             ]
         }
@@ -18022,6 +18196,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 50,
+                    "deathValues": 0,
+                    "recoveredValues": 252
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 50,
                     "deathValues": 0,
                     "recoveredValues": 252
@@ -18626,6 +18806,12 @@
                     "confirmedValues": 52,
                     "deathValues": 2,
                     "recoveredValues": 145
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 73,
+                    "deathValues": 5,
+                    "recoveredValues": 145
                 }
             ]
         }
@@ -19226,6 +19412,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 14885,
                     "deathValues": 216,
+                    "recoveredValues": 162
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 16023,
+                    "deathValues": 227,
                     "recoveredValues": 162
                 }
             ]
@@ -19828,6 +20020,12 @@
                     "confirmedValues": 1268,
                     "deathValues": 1,
                     "recoveredValues": 148
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1268,
+                    "deathValues": 1,
+                    "recoveredValues": 296
                 }
             ]
         }
@@ -20429,6 +20627,12 @@
                     "confirmedValues": 6207,
                     "deathValues": 278,
                     "recoveredValues": 3108
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 6507,
+                    "deathValues": 293,
+                    "recoveredValues": 3314
                 }
             ]
         }
@@ -21030,6 +21234,12 @@
                     "confirmedValues": 207,
                     "deathValues": 8,
                     "recoveredValues": 181
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 220,
+                    "deathValues": 9,
+                    "recoveredValues": 184
                 }
             ]
         }
@@ -21630,6 +21840,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 491,
                     "deathValues": 30,
+                    "recoveredValues": 11
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 572,
+                    "deathValues": 31,
                     "recoveredValues": 11
                 }
             ]
@@ -22232,6 +22448,12 @@
                     "confirmedValues": 713,
                     "deathValues": 6,
                     "recoveredValues": 6366
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 719,
+                    "deathValues": 6,
+                    "recoveredValues": 6546
                 }
             ]
         }
@@ -22833,6 +23055,12 @@
                     "confirmedValues": 1238,
                     "deathValues": 14,
                     "recoveredValues": 599
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1275,
+                    "deathValues": 14,
+                    "recoveredValues": 642
                 }
             ]
         }
@@ -23433,6 +23661,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 2062,
                     "deathValues": 67,
+                    "recoveredValues": 13
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2076,
+                    "deathValues": 69,
                     "recoveredValues": 13
                 }
             ]
@@ -24035,6 +24269,12 @@
                     "confirmedValues": 712,
                     "deathValues": 13,
                     "recoveredValues": 1228
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 712,
+                    "deathValues": 13,
+                    "recoveredValues": 1301
                 }
             ]
         }
@@ -24636,6 +24876,12 @@
                     "confirmedValues": 1467,
                     "deathValues": 58,
                     "recoveredValues": 1557
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1501,
+                    "deathValues": 61,
+                    "recoveredValues": 1558
                 }
             ]
         }
@@ -25237,6 +25483,12 @@
                     "confirmedValues": 843,
                     "deathValues": 15,
                     "recoveredValues": 1335
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 850,
+                    "deathValues": 15,
+                    "recoveredValues": 1381
                 }
             ]
         }
@@ -25838,6 +26090,12 @@
                     "confirmedValues": 7579,
                     "deathValues": 227,
                     "recoveredValues": 106
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 7682,
+                    "deathValues": 236,
+                    "recoveredValues": 119
                 }
             ]
         }
@@ -26439,6 +26697,12 @@
                     "confirmedValues": 9008,
                     "deathValues": 443,
                     "recoveredValues": 236
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 9158,
+                    "deathValues": 452,
+                    "recoveredValues": 249
                 }
             ]
         }
@@ -27040,6 +27304,12 @@
                     "confirmedValues": 1077,
                     "deathValues": 2,
                     "recoveredValues": 10
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1089,
+                    "deathValues": 2,
+                    "recoveredValues": 12
                 }
             ]
         }
@@ -27641,6 +27911,12 @@
                     "confirmedValues": 6652,
                     "deathValues": 293,
                     "recoveredValues": 58
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 6972,
+                    "deathValues": 301,
+                    "recoveredValues": 59
                 }
             ]
         }
@@ -28241,6 +28517,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 24675,
                     "deathValues": 883,
+                    "recoveredValues": 12
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 24934,
+                    "deathValues": 900,
                     "recoveredValues": 12
                 }
             ]
@@ -28843,6 +29125,12 @@
                     "confirmedValues": 5268,
                     "deathValues": 380,
                     "recoveredValues": 2800
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 5537,
+                    "deathValues": 392,
+                    "recoveredValues": 3000
                 }
             ]
         }
@@ -29444,6 +29732,12 @@
                     "confirmedValues": 377,
                     "deathValues": 9,
                     "recoveredValues": 93
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 395,
+                    "deathValues": 10,
+                    "recoveredValues": 94
                 }
             ]
         }
@@ -30042,6 +30336,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 315,
+                    "deathValues": 1,
+                    "recoveredValues": 50
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 315,
                     "deathValues": 1,
                     "recoveredValues": 50
@@ -30646,6 +30946,12 @@
                     "confirmedValues": 39,
                     "deathValues": 0,
                     "recoveredValues": 82
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 39,
+                    "deathValues": 0,
+                    "recoveredValues": 95
                 }
             ]
         }
@@ -31247,6 +31553,12 @@
                     "confirmedValues": 1666,
                     "deathValues": 50,
                     "recoveredValues": 83
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1689,
+                    "deathValues": 52,
+                    "recoveredValues": 83
                 }
             ]
         }
@@ -31846,6 +32158,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 91,
+                    "deathValues": 1,
+                    "recoveredValues": 235
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 100,
                     "deathValues": 1,
                     "recoveredValues": 235
                 }
@@ -32449,6 +32767,12 @@
                     "confirmedValues": 130,
                     "deathValues": 3,
                     "recoveredValues": 17
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 131,
+                    "deathValues": 3,
+                    "recoveredValues": 17
                 }
             ]
         }
@@ -33047,6 +33371,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 18,
+                    "deathValues": 0,
+                    "recoveredValues": 300
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 18,
                     "deathValues": 0,
                     "recoveredValues": 300
@@ -33651,6 +33981,12 @@
                     "confirmedValues": 4906,
                     "deathValues": 206,
                     "recoveredValues": 6
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 4995,
+                    "deathValues": 211,
+                    "recoveredValues": 6
                 }
             ]
         }
@@ -34249,6 +34585,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 1,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 1,
                     "deathValues": 0,
                     "recoveredValues": 0
@@ -34853,6 +35195,12 @@
                     "confirmedValues": 276,
                     "deathValues": 3,
                     "recoveredValues": 313
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 276,
+                    "deathValues": 3,
+                    "recoveredValues": 329
                 }
             ]
         }
@@ -35452,6 +35800,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 10,
+                    "deathValues": 1,
+                    "recoveredValues": 19
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 11,
                     "deathValues": 1,
                     "recoveredValues": 19
                 }
@@ -36055,6 +36409,12 @@
                     "confirmedValues": 517,
                     "deathValues": 6,
                     "recoveredValues": 18
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 539,
+                    "deathValues": 6,
+                    "recoveredValues": 22
                 }
             ]
         }
@@ -36655,6 +37015,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 161539,
                     "deathValues": 6467,
+                    "recoveredValues": 8
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 163009,
+                    "deathValues": 6623,
                     "recoveredValues": 8
                 }
             ]
@@ -37257,6 +37623,12 @@
                     "confirmedValues": 1671,
                     "deathValues": 16,
                     "recoveredValues": 2
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2074,
+                    "deathValues": 17,
+                    "recoveredValues": 2
                 }
             ]
         }
@@ -37858,6 +38230,12 @@
                     "confirmedValues": 2576,
                     "deathValues": 139,
                     "recoveredValues": 73
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2591,
+                    "deathValues": 140,
+                    "recoveredValues": 79
                 }
             ]
         }
@@ -38459,6 +38837,12 @@
                     "confirmedValues": 557,
                     "deathValues": 16,
                     "recoveredValues": 536
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 599,
+                    "deathValues": 16,
+                    "recoveredValues": 581
                 }
             ]
         }
@@ -39060,6 +39444,12 @@
                     "confirmedValues": 1351,
                     "deathValues": 7,
                     "recoveredValues": 1656
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1495,
+                    "deathValues": 7,
+                    "recoveredValues": 1670
                 }
             ]
         }
@@ -39661,6 +40051,12 @@
                     "confirmedValues": 78,
                     "deathValues": 8,
                     "recoveredValues": 8437
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 82,
+                    "deathValues": 9,
+                    "recoveredValues": 9068
                 }
             ]
         }
@@ -40262,6 +40658,12 @@
                     "confirmedValues": 76,
                     "deathValues": 6,
                     "recoveredValues": 1391
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 81,
+                    "deathValues": 8,
+                    "recoveredValues": 1522
                 }
             ]
         }
@@ -40863,6 +41265,12 @@
                     "confirmedValues": 10,
                     "deathValues": 0,
                     "recoveredValues": 73791
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 11,
+                    "deathValues": 0,
+                    "recoveredValues": 75103
                 }
             ]
         }
@@ -41464,6 +41872,12 @@
                     "confirmedValues": 738,
                     "deathValues": 66,
                     "recoveredValues": 1346
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 771,
+                    "deathValues": 71,
+                    "recoveredValues": 1375
                 }
             ]
         }
@@ -42064,6 +42478,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 2727,
                     "deathValues": 300,
+                    "recoveredValues": 13386
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2775,
+                    "deathValues": 312,
                     "recoveredValues": 13386
                 }
             ]
@@ -42666,6 +43086,12 @@
                     "confirmedValues": 1797,
                     "deathValues": 10,
                     "recoveredValues": 8233
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1797,
+                    "deathValues": 10,
+                    "recoveredValues": 8561
                 }
             ]
         }
@@ -43267,6 +43693,12 @@
                     "confirmedValues": 33062,
                     "deathValues": 1079,
                     "recoveredValues": 71252
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 34863,
+                    "deathValues": 1154,
+                    "recoveredValues": 75945
                 }
             ]
         }
@@ -43867,6 +44299,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 9771,
                     "deathValues": 784,
+                    "recoveredValues": 29
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 10118,
+                    "deathValues": 792,
                     "recoveredValues": 29
                 }
             ]
@@ -44469,6 +44907,12 @@
                     "confirmedValues": 93657,
                     "deathValues": 5957,
                     "recoveredValues": 2368
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 94640,
+                    "deathValues": 6028,
+                    "recoveredValues": 2460
                 }
             ]
         }
@@ -45070,6 +45514,12 @@
                     "confirmedValues": 2003,
                     "deathValues": 92,
                     "recoveredValues": 356
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2085,
+                    "deathValues": 93,
+                    "recoveredValues": 362
                 }
             ]
         }
@@ -45671,6 +46121,12 @@
                     "confirmedValues": 20253,
                     "deathValues": 1190,
                     "recoveredValues": 819
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 20612,
+                    "deathValues": 1232,
+                    "recoveredValues": 866
                 }
             ]
         }
@@ -46272,6 +46728,12 @@
                     "confirmedValues": 15834,
                     "deathValues": 215,
                     "recoveredValues": 129
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 15946,
+                    "deathValues": 222,
+                    "recoveredValues": 144
                 }
             ]
         }
@@ -46873,6 +47335,12 @@
                     "confirmedValues": 203591,
                     "deathValues": 27682,
                     "recoveredValues": 9059
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 205463,
+                    "deathValues": 27967,
+                    "recoveredValues": 9072
                 }
             ]
         }
@@ -47474,6 +47942,12 @@
                     "confirmedValues": 396,
                     "deathValues": 7,
                     "recoveredValues": 1389
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 422,
+                    "deathValues": 8,
+                    "recoveredValues": 1539
                 }
             ]
         }
@@ -48075,6 +48549,12 @@
                     "confirmedValues": 13895,
                     "deathValues": 413,
                     "recoveredValues": 437
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 14088,
+                    "deathValues": 430,
+                    "recoveredValues": 462
                 }
             ]
         }
@@ -48674,6 +49154,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 451,
+                    "deathValues": 8,
+                    "recoveredValues": 348
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 453,
                     "deathValues": 8,
                     "recoveredValues": 348
                 }
@@ -49277,6 +49763,12 @@
                     "confirmedValues": 3138,
                     "deathValues": 25,
                     "recoveredValues": 150
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 3402,
+                    "deathValues": 25,
+                    "recoveredValues": 150
                 }
             ]
         }
@@ -49877,6 +50369,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 384,
                     "deathValues": 15,
+                    "recoveredValues": 45
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 396,
+                    "deathValues": 17,
                     "recoveredValues": 45
                 }
             ]
@@ -50479,6 +50977,12 @@
                     "confirmedValues": 10765,
                     "deathValues": 247,
                     "recoveredValues": 18
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 10774,
+                    "deathValues": 248,
+                    "recoveredValues": 18
                 }
             ]
         }
@@ -51079,6 +51583,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 3740,
                     "deathValues": 24,
+                    "recoveredValues": 55
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 4024,
+                    "deathValues": 26,
                     "recoveredValues": 55
                 }
             ]
@@ -51681,6 +52191,12 @@
                     "confirmedValues": 729,
                     "deathValues": 8,
                     "recoveredValues": 563
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 746,
+                    "deathValues": 8,
+                    "recoveredValues": 589
                 }
             ]
         }
@@ -52282,6 +52798,12 @@
                     "confirmedValues": 849,
                     "deathValues": 15,
                     "recoveredValues": 3134
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 858,
+                    "deathValues": 15,
+                    "recoveredValues": 3213
                 }
             ]
         }
@@ -52883,6 +53405,12 @@
                     "confirmedValues": 721,
                     "deathValues": 24,
                     "recoveredValues": 90
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 725,
+                    "deathValues": 24,
+                    "recoveredValues": 92
                 }
             ]
         }
@@ -53484,6 +54012,12 @@
                     "confirmedValues": 141,
                     "deathValues": 16,
                     "recoveredValues": 4087
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 141,
+                    "deathValues": 16,
+                    "recoveredValues": 4171
                 }
             ]
         }
@@ -54082,6 +54616,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 82,
+                    "deathValues": 1,
+                    "recoveredValues": 17
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 82,
                     "deathValues": 1,
                     "recoveredValues": 17
@@ -54686,6 +55226,12 @@
                     "confirmedValues": 1375,
                     "deathValues": 45,
                     "recoveredValues": 129
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1385,
+                    "deathValues": 45,
+                    "recoveredValues": 135
                 }
             ]
         }
@@ -55287,6 +55833,12 @@
                     "confirmedValues": 3769,
                     "deathValues": 89,
                     "recoveredValues": 339
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 3784,
+                    "deathValues": 90,
+                    "recoveredValues": 351
                 }
             ]
         }
@@ -55885,6 +56437,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 128,
+                    "deathValues": 0,
+                    "recoveredValues": 6
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 128,
                     "deathValues": 0,
                     "recoveredValues": 6
@@ -56489,6 +57047,12 @@
                     "confirmedValues": 5945,
                     "deathValues": 100,
                     "recoveredValues": 306
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 6002,
+                    "deathValues": 102,
+                    "recoveredValues": 310
                 }
             ]
         }
@@ -57088,6 +57652,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 278,
+                    "deathValues": 1,
+                    "recoveredValues": 11423
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 468,
                     "deathValues": 1,
                     "recoveredValues": 11423
                 }
@@ -57691,6 +58261,12 @@
                     "confirmedValues": 463,
                     "deathValues": 4,
                     "recoveredValues": 1114
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 465,
+                    "deathValues": 4,
+                    "recoveredValues": 1182
                 }
             ]
         }
@@ -58292,6 +58868,12 @@
                     "confirmedValues": 8,
                     "deathValues": 1,
                     "recoveredValues": 58
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 8,
+                    "deathValues": 1,
+                    "recoveredValues": 64
                 }
             ]
         }
@@ -58890,6 +59472,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 332,
+                    "deathValues": 10,
+                    "recoveredValues": 10
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 332,
                     "deathValues": 10,
                     "recoveredValues": 10
@@ -59494,6 +60082,12 @@
                     "confirmedValues": 17799,
                     "deathValues": 1732,
                     "recoveredValues": 203
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 19224,
+                    "deathValues": 1859,
+                    "recoveredValues": 214
                 }
             ]
         }
@@ -60095,6 +60689,12 @@
                     "confirmedValues": 3771,
                     "deathValues": 111,
                     "recoveredValues": 928
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 3897,
+                    "deathValues": 116,
+                    "recoveredValues": 984
                 }
             ]
         }
@@ -60693,6 +61293,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 95,
+                    "deathValues": 4,
+                    "recoveredValues": 12
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 95,
                     "deathValues": 4,
                     "recoveredValues": 12
@@ -61297,6 +61903,12 @@
                     "confirmedValues": 38,
                     "deathValues": 0,
                     "recoveredValues": 8
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 38,
+                    "deathValues": 0,
+                    "recoveredValues": 8
                 }
             ]
         }
@@ -61895,6 +62507,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 322,
+                    "deathValues": 7,
+                    "recoveredValues": 16
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 322,
                     "deathValues": 7,
                     "recoveredValues": 16
@@ -62499,6 +63117,12 @@
                     "confirmedValues": 4321,
                     "deathValues": 168,
                     "recoveredValues": 73
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 4423,
+                    "deathValues": 170,
+                    "recoveredValues": 79
                 }
             ]
         }
@@ -63097,6 +63721,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 16,
+                    "deathValues": 0,
+                    "recoveredValues": 13
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 16,
                     "deathValues": 0,
                     "recoveredValues": 13
@@ -63701,6 +64331,12 @@
                     "confirmedValues": 57,
                     "deathValues": 0,
                     "recoveredValues": 33
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 57,
+                    "deathValues": 0,
+                    "recoveredValues": 33
                 }
             ]
         }
@@ -64299,6 +64935,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 5,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 5,
                     "deathValues": 0,
                     "recoveredValues": 0
@@ -64903,6 +65545,12 @@
                     "confirmedValues": 1476,
                     "deathValues": 19,
                     "recoveredValues": 307
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1479,
+                    "deathValues": 19,
+                    "recoveredValues": 319
                 }
             ]
         }
@@ -65504,6 +66152,12 @@
                     "confirmedValues": 13,
                     "deathValues": 3,
                     "recoveredValues": 627
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 14,
+                    "deathValues": 3,
+                    "recoveredValues": 738
                 }
             ]
         }
@@ -66103,6 +66757,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 713,
+                    "deathValues": 32,
+                    "recoveredValues": 32
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 719,
                     "deathValues": 32,
                     "recoveredValues": 32
                 }
@@ -66706,6 +67366,12 @@
                     "confirmedValues": 1728,
                     "deathValues": 51,
                     "recoveredValues": 364
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1932,
+                    "deathValues": 58,
+                    "recoveredValues": 495
                 }
             ]
         }
@@ -67307,6 +67973,12 @@
                     "confirmedValues": 1442,
                     "deathValues": 73,
                     "recoveredValues": 3425
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1465,
+                    "deathValues": 77,
+                    "recoveredValues": 4315
                 }
             ]
         }
@@ -67908,6 +68580,12 @@
                     "confirmedValues": 7710,
                     "deathValues": 207,
                     "recoveredValues": 527
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 7738,
+                    "deathValues": 210,
+                    "recoveredValues": 576
                 }
             ]
         }
@@ -68508,6 +69186,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 2274,
                     "deathValues": 10,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2348,
+                    "deathValues": 11,
                     "recoveredValues": 0
                 }
             ]
@@ -69110,6 +69794,12 @@
                     "confirmedValues": 15525,
                     "deathValues": 343,
                     "recoveredValues": 102
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 16817,
+                    "deathValues": 385,
+                    "recoveredValues": 113
                 }
             ]
         }
@@ -69711,6 +70401,12 @@
                     "confirmedValues": 6378,
                     "deathValues": 178,
                     "recoveredValues": 10037
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 6532,
+                    "deathValues": 188,
+                    "recoveredValues": 10405
                 }
             ]
         }
@@ -70312,6 +71008,12 @@
                     "confirmedValues": 8,
                     "deathValues": 0,
                     "recoveredValues": 1023
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 8,
+                    "deathValues": 0,
+                    "recoveredValues": 1043
                 }
             ]
         }
@@ -70913,6 +71615,12 @@
                     "confirmedValues": 239,
                     "deathValues": 9,
                     "recoveredValues": 3025
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 266,
+                    "deathValues": 10,
+                    "recoveredValues": 3236
                 }
             ]
         }
@@ -71514,6 +72222,12 @@
                     "confirmedValues": 33931,
                     "deathValues": 943,
                     "recoveredValues": 1470
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 36976,
+                    "deathValues": 1051,
+                    "recoveredValues": 1519
                 }
             ]
         }
@@ -72115,6 +72829,12 @@
                     "confirmedValues": 8212,
                     "deathValues": 558,
                     "recoveredValues": 1243
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 8488,
+                    "deathValues": 568,
+                    "recoveredValues": 1372
                 }
             ]
         }
@@ -72716,6 +73436,12 @@
                     "confirmedValues": 12640,
                     "deathValues": 624,
                     "recoveredValues": 3569
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 12877,
+                    "deathValues": 644,
+                    "recoveredValues": 4017
                 }
             ]
         }
@@ -73317,6 +74043,12 @@
                     "confirmedValues": 24505,
                     "deathValues": 973,
                     "recoveredValues": 10286
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 25045,
+                    "deathValues": 989,
+                    "recoveredValues": 11619
                 }
             ]
         }
@@ -73918,6 +74650,12 @@
                     "confirmedValues": 12564,
                     "deathValues": 10,
                     "recoveredValues": 98
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 13409,
+                    "deathValues": 10,
+                    "recoveredValues": 104
                 }
             ]
         }
@@ -74519,6 +75257,12 @@
                     "confirmedValues": 11978,
                     "deathValues": 693,
                     "recoveredValues": 4
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 12240,
+                    "deathValues": 717,
+                    "recoveredValues": 6
                 }
             ]
         }
@@ -75120,6 +75864,12 @@
                     "confirmedValues": 99399,
                     "deathValues": 972,
                     "recoveredValues": 15
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 106498,
+                    "deathValues": 1073,
+                    "recoveredValues": 15
                 }
             ]
         }
@@ -75719,6 +76469,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 225,
+                    "deathValues": 0,
+                    "recoveredValues": 8
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 243,
                     "deathValues": 0,
                     "recoveredValues": 8
                 }
@@ -76322,6 +77078,12 @@
                     "confirmedValues": 17,
                     "deathValues": 0,
                     "recoveredValues": 69
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 17,
+                    "deathValues": 0,
+                    "recoveredValues": 78
                 }
             ]
         }
@@ -76923,6 +77685,12 @@
                     "confirmedValues": 16,
                     "deathValues": 0,
                     "recoveredValues": 2953
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 16,
+                    "deathValues": 0,
+                    "recoveredValues": 3163
                 }
             ]
         }
@@ -77524,6 +78292,12 @@
                     "confirmedValues": 563,
                     "deathValues": 41,
                     "recoveredValues": 315
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 569,
+                    "deathValues": 41,
+                    "recoveredValues": 334
                 }
             ]
         }
@@ -78076,55 +78850,61 @@
                     "date": "4/21/20",
                     "confirmedValues": 11631,
                     "deathValues": 109,
-                    "recoveredValues": 870
+                    "recoveredValues": 977
                 },
                 {
                     "date": "4/22/20",
                     "confirmedValues": 12772,
                     "deathValues": 114,
-                    "recoveredValues": 870
+                    "recoveredValues": 1025
                 },
                 {
                     "date": "4/23/20",
                     "confirmedValues": 13930,
                     "deathValues": 121,
-                    "recoveredValues": 870
+                    "recoveredValues": 1067
                 },
                 {
                     "date": "4/24/20",
                     "confirmedValues": 15102,
                     "deathValues": 127,
-                    "recoveredValues": 870
+                    "recoveredValues": 1094
                 },
                 {
                     "date": "4/25/20",
                     "confirmedValues": 16299,
                     "deathValues": 136,
-                    "recoveredValues": 870
+                    "recoveredValues": 1152
                 },
                 {
                     "date": "4/26/20",
                     "confirmedValues": 17522,
                     "deathValues": 139,
-                    "recoveredValues": 870
+                    "recoveredValues": 1182
                 },
                 {
                     "date": "4/27/20",
                     "confirmedValues": 18811,
                     "deathValues": 144,
-                    "recoveredValues": 870
+                    "recoveredValues": 1209
                 },
                 {
                     "date": "4/28/20",
                     "confirmedValues": 20077,
                     "deathValues": 152,
-                    "recoveredValues": 870
+                    "recoveredValues": 1260
                 },
                 {
                     "date": "4/29/20",
                     "confirmedValues": 21402,
                     "deathValues": 157,
-                    "recoveredValues": 870
+                    "recoveredValues": 1292
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 22753,
+                    "deathValues": 162,
+                    "recoveredValues": 1343
                 }
             ]
         }
@@ -78726,6 +79506,12 @@
                     "confirmedValues": 882,
                     "deathValues": 9,
                     "recoveredValues": 6
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 933,
+                    "deathValues": 9,
+                    "recoveredValues": 6
                 }
             ]
         }
@@ -79276,57 +80062,63 @@
                 },
                 {
                     "date": "4/21/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 6890,
+                    "deathValues": 130,
                     "recoveredValues": 839
                 },
                 {
                     "date": "4/22/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 7144,
+                    "deathValues": 134,
                     "recoveredValues": 896
                 },
                 {
                     "date": "4/23/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 7276,
+                    "deathValues": 139,
                     "recoveredValues": 924
                 },
                 {
                     "date": "4/24/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 7483,
+                    "deathValues": 144,
                     "recoveredValues": 956
                 },
                 {
                     "date": "4/25/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 7779,
+                    "deathValues": 151,
                     "recoveredValues": 1002
                 },
                 {
                     "date": "4/26/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 8042,
+                    "deathValues": 156,
                     "recoveredValues": 1060
                 },
                 {
                     "date": "4/27/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 8275,
+                    "deathValues": 162,
                     "recoveredValues": 1095
                 },
                 {
                     "date": "4/28/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 8497,
+                    "deathValues": 168,
                     "recoveredValues": 1128
                 },
                 {
                     "date": "4/29/20",
-                    "confirmedValues": 6630,
-                    "deathValues": 125,
+                    "confirmedValues": 8724,
+                    "deathValues": 173,
                     "recoveredValues": 1188
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 9009,
+                    "deathValues": 179,
+                    "recoveredValues": 1244
                 }
             ]
         }
@@ -79928,6 +80720,12 @@
                     "confirmedValues": 11,
                     "deathValues": 0,
                     "recoveredValues": 484
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 11,
+                    "deathValues": 0,
+                    "recoveredValues": 524
                 }
             ]
         }
@@ -80529,6 +81327,12 @@
                     "confirmedValues": 15641,
                     "deathValues": 14,
                     "recoveredValues": 230
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 16169,
+                    "deathValues": 15,
+                    "recoveredValues": 233
                 }
             ]
         }
@@ -81130,6 +81934,12 @@
                     "confirmedValues": 1391,
                     "deathValues": 22,
                     "recoveredValues": 20
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1396,
+                    "deathValues": 23,
+                    "recoveredValues": 31
                 }
             ]
         }
@@ -81730,6 +82540,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 1418,
                     "deathValues": 89,
+                    "recoveredValues": 2073
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1429,
+                    "deathValues": 91,
                     "recoveredValues": 2073
                 }
             ]
@@ -82332,6 +83148,12 @@
                     "confirmedValues": 582,
                     "deathValues": 28,
                     "recoveredValues": 108947
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 601,
+                    "deathValues": 28,
+                    "recoveredValues": 112050
                 }
             ]
         }
@@ -82933,6 +83755,12 @@
                     "confirmedValues": 5350,
                     "deathValues": 103,
                     "recoveredValues": 136
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 5647,
+                    "deathValues": 103,
+                    "recoveredValues": 154
                 }
             ]
         }
@@ -83534,6 +84362,12 @@
                     "confirmedValues": 212917,
                     "deathValues": 24275,
                     "recoveredValues": 32
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 213435,
+                    "deathValues": 24543,
+                    "recoveredValues": 39
                 }
             ]
         }
@@ -84133,6 +84967,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 649,
+                    "deathValues": 7,
+                    "recoveredValues": 8
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 663,
                     "deathValues": 7,
                     "recoveredValues": 8
                 }
@@ -84736,6 +85576,12 @@
                     "confirmedValues": 375,
                     "deathValues": 28,
                     "recoveredValues": 1005
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 442,
+                    "deathValues": 31,
+                    "recoveredValues": 1005
                 }
             ]
         }
@@ -85337,6 +86183,12 @@
                     "confirmedValues": 10,
                     "deathValues": 1,
                     "recoveredValues": 22600
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 10,
+                    "deathValues": 1,
+                    "recoveredValues": 23400
                 }
             ]
         }
@@ -85937,6 +86789,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 20302,
                     "deathValues": 2462,
+                    "recoveredValues": 21
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 21092,
+                    "deathValues": 2586,
                     "recoveredValues": 21
                 }
             ]
@@ -86539,6 +87397,12 @@
                     "confirmedValues": 29407,
                     "deathValues": 1716,
                     "recoveredValues": 311
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 29586,
+                    "deathValues": 1737,
+                    "recoveredValues": 322
                 }
             ]
         }
@@ -87137,6 +88001,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 429,
+                    "deathValues": 6,
+                    "recoveredValues": 167
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 429,
                     "deathValues": 6,
                     "recoveredValues": 167
@@ -87741,6 +88611,12 @@
                     "confirmedValues": 480,
                     "deathValues": 16,
                     "recoveredValues": 2665
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 480,
+                    "deathValues": 16,
+                    "recoveredValues": 2684
                 }
             ]
         }
@@ -88342,6 +89218,12 @@
                     "confirmedValues": 2947,
                     "deathValues": 54,
                     "recoveredValues": 6
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2954,
+                    "deathValues": 54,
+                    "recoveredValues": 16
                 }
             ]
         }
@@ -88943,6 +89825,12 @@
                     "confirmedValues": 109,
                     "deathValues": 7,
                     "recoveredValues": 64
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 116,
+                    "deathValues": 9,
+                    "recoveredValues": 65
                 }
             ]
         }
@@ -89544,6 +90432,12 @@
                     "confirmedValues": 116,
                     "deathValues": 8,
                     "recoveredValues": 71
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 116,
+                    "deathValues": 8,
+                    "recoveredValues": 72
                 }
             ]
         }
@@ -90145,6 +91039,12 @@
                     "confirmedValues": 980,
                     "deathValues": 40,
                     "recoveredValues": 294
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 994,
+                    "deathValues": 41,
+                    "recoveredValues": 305
                 }
             ]
         }
@@ -90746,6 +91646,12 @@
                     "confirmedValues": 117589,
                     "deathValues": 3081,
                     "recoveredValues": 44040
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 120204,
+                    "deathValues": 3174,
+                    "recoveredValues": 48886
                 }
             ]
         }
@@ -91345,6 +92251,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 81,
+                    "deathValues": 0,
+                    "recoveredValues": 52
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 83,
                     "deathValues": 0,
                     "recoveredValues": 52
                 }
@@ -91948,6 +92860,12 @@
                     "confirmedValues": 9866,
                     "deathValues": 250,
                     "recoveredValues": 1103
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 10406,
+                    "deathValues": 261,
+                    "recoveredValues": 1238
                 }
             ]
         }
@@ -92549,6 +93467,12 @@
                     "confirmedValues": 11929,
                     "deathValues": 98,
                     "recoveredValues": 2329
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 12481,
+                    "deathValues": 105,
+                    "recoveredValues": 2429
                 }
             ]
         }
@@ -93147,6 +94071,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 13,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 13,
                     "deathValues": 0,
                     "recoveredValues": 0
@@ -93751,6 +94681,12 @@
                     "confirmedValues": 630,
                     "deathValues": 15,
                     "recoveredValues": 412
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 643,
+                    "deathValues": 17,
+                    "recoveredValues": 417
                 }
             ]
         }
@@ -94352,6 +95288,12 @@
                     "confirmedValues": 1039909,
                     "deathValues": 60967,
                     "recoveredValues": 120720
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1069424,
+                    "deathValues": 62996,
+                    "recoveredValues": 153947
                 }
             ]
         }
@@ -94953,6 +95895,12 @@
                     "confirmedValues": 2002,
                     "deathValues": 9,
                     "recoveredValues": 1096
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 2039,
+                    "deathValues": 9,
+                    "recoveredValues": 1133
                 }
             ]
         }
@@ -95553,6 +96501,12 @@
                     "date": "4/29/20",
                     "confirmedValues": 331,
                     "deathValues": 10,
+                    "recoveredValues": 142
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 333,
+                    "deathValues": 16,
                     "recoveredValues": 142
                 }
             ]
@@ -96155,6 +97109,12 @@
                     "confirmedValues": 270,
                     "deathValues": 0,
                     "recoveredValues": 222
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 270,
+                    "deathValues": 0,
+                    "recoveredValues": 219
                 }
             ]
         }
@@ -96756,6 +97716,12 @@
                     "confirmedValues": 97,
                     "deathValues": 3,
                     "recoveredValues": 54
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 106,
+                    "deathValues": 3,
+                    "recoveredValues": 55
                 }
             ]
         }
@@ -97355,6 +98321,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 32,
+                    "deathValues": 4,
+                    "recoveredValues": 5
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 40,
                     "deathValues": 4,
                     "recoveredValues": 5
                 }
@@ -97958,6 +98930,12 @@
                     "confirmedValues": 16,
                     "deathValues": 0,
                     "recoveredValues": 7
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 16,
+                    "deathValues": 0,
+                    "recoveredValues": 8
                 }
             ]
         }
@@ -98498,67 +99476,73 @@
                     "date": "4/19/20",
                     "confirmedValues": 14,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 102
                 },
                 {
                     "date": "4/20/20",
                     "confirmedValues": 14,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 123
                 },
                 {
                     "date": "4/21/20",
                     "confirmedValues": 14,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 128
                 },
                 {
                     "date": "4/22/20",
                     "confirmedValues": 15,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 138
                 },
                 {
                     "date": "4/23/20",
                     "confirmedValues": 15,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 159
                 },
                 {
                     "date": "4/24/20",
                     "confirmedValues": 15,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 162
                 },
                 {
                     "date": "4/25/20",
                     "confirmedValues": 18,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 165
                 },
                 {
                     "date": "4/26/20",
                     "confirmedValues": 18,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 166
                 },
                 {
                     "date": "4/27/20",
                     "confirmedValues": 18,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 201
                 },
                 {
                     "date": "4/28/20",
                     "confirmedValues": 19,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 232
                 },
                 {
                     "date": "4/29/20",
                     "confirmedValues": 20,
                     "deathValues": 0,
-                    "recoveredValues": 93
+                    "recoveredValues": 249
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 20,
+                    "deathValues": 0,
+                    "recoveredValues": 271
                 }
             ]
         }
@@ -99157,6 +100141,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 76,
+                    "deathValues": 0,
+                    "recoveredValues": 27
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 76,
                     "deathValues": 0,
                     "recoveredValues": 27
@@ -99761,6 +100751,12 @@
                     "confirmedValues": 43,
                     "deathValues": 3,
                     "recoveredValues": 3
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 43,
+                    "deathValues": 3,
+                    "recoveredValues": 3
                 }
             ]
         }
@@ -100359,6 +101355,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 24,
+                    "deathValues": 0,
+                    "recoveredValues": 3
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 24,
                     "deathValues": 0,
                     "recoveredValues": 3
@@ -100963,6 +101965,12 @@
                     "confirmedValues": 18,
                     "deathValues": 2,
                     "recoveredValues": 5
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 18,
+                    "deathValues": 2,
+                    "recoveredValues": 5
                 }
             ]
         }
@@ -101561,6 +102569,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 19,
+                    "deathValues": 0,
+                    "recoveredValues": 5
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 19,
                     "deathValues": 0,
                     "recoveredValues": 5
@@ -102165,6 +103179,12 @@
                     "confirmedValues": 61,
                     "deathValues": 2,
                     "recoveredValues": 4
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 61,
+                    "deathValues": 3,
+                    "recoveredValues": 4
                 }
             ]
         }
@@ -102766,6 +103786,12 @@
                     "confirmedValues": 344,
                     "deathValues": 2,
                     "recoveredValues": 12
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 344,
+                    "deathValues": 2,
+                    "recoveredValues": 21
                 }
             ]
         }
@@ -103364,6 +104390,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 205,
+                    "deathValues": 1,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 205,
                     "deathValues": 1,
                     "recoveredValues": 0
@@ -103968,6 +105000,12 @@
                     "confirmedValues": 482,
                     "deathValues": 25,
                     "recoveredValues": 7
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 490,
+                    "deathValues": 26,
+                    "recoveredValues": 7
                 }
             ]
         }
@@ -104569,6 +105607,12 @@
                     "confirmedValues": 15,
                     "deathValues": 0,
                     "recoveredValues": 11
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 15,
+                    "deathValues": 0,
+                    "recoveredValues": 11
                 }
             ]
         }
@@ -105107,68 +106151,74 @@
                 },
                 {
                     "date": "4/19/20",
-                    "confirmedValues": 510,
+                    "confirmedValues": 561,
                     "deathValues": 12,
                     "recoveredValues": 0
                 },
                 {
                     "date": "4/20/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 598,
+                    "deathValues": 15,
                     "recoveredValues": 0
                 },
                 {
                     "date": "4/21/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 604,
+                    "deathValues": 18,
                     "recoveredValues": 0
                 },
                 {
                     "date": "4/22/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 630,
+                    "deathValues": 18,
                     "recoveredValues": 0
                 },
                 {
                     "date": "4/23/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 669,
+                    "deathValues": 19,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/24/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 703,
+                    "deathValues": 19,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/25/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 731,
+                    "deathValues": 20,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/26/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 763,
+                    "deathValues": 21,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/27/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 780,
+                    "deathValues": 22,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/28/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 790,
+                    "deathValues": 22,
                     "recoveredValues": 5
                 },
                 {
                     "date": "4/29/20",
-                    "confirmedValues": 510,
-                    "deathValues": 12,
+                    "confirmedValues": 799,
+                    "deathValues": 22,
+                    "recoveredValues": 5
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 806,
+                    "deathValues": 22,
                     "recoveredValues": 5
                 }
             ]
@@ -105771,6 +106821,12 @@
                     "confirmedValues": 150,
                     "deathValues": 6,
                     "recoveredValues": 4
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 151,
+                    "deathValues": 6,
+                    "recoveredValues": 4
                 }
             ]
         }
@@ -106369,6 +107425,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 9,
+                    "deathValues": 2,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 9,
                     "deathValues": 2,
                     "recoveredValues": 0
@@ -106973,6 +108035,12 @@
                     "confirmedValues": 23,
                     "deathValues": 1,
                     "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 23,
+                    "deathValues": 1,
+                    "recoveredValues": 0
                 }
             ]
         }
@@ -107571,6 +108639,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 11,
+                    "deathValues": 1,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 11,
                     "deathValues": 1,
                     "recoveredValues": 0
@@ -108175,6 +109249,12 @@
                     "confirmedValues": 104,
                     "deathValues": 4,
                     "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 124,
+                    "deathValues": 7,
+                    "recoveredValues": 0
                 }
             ]
         }
@@ -108774,6 +109854,12 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 36,
+                    "deathValues": 3,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 37,
                     "deathValues": 3,
                     "recoveredValues": 0
                 }
@@ -109377,6 +110463,12 @@
                     "confirmedValues": 34,
                     "deathValues": 0,
                     "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 35,
+                    "deathValues": 0,
+                    "recoveredValues": 0
                 }
             ]
         }
@@ -109975,6 +111067,12 @@
                 },
                 {
                     "date": "4/29/20",
+                    "confirmedValues": 6,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
                     "confirmedValues": 6,
                     "deathValues": 0,
                     "recoveredValues": 0
@@ -110579,6 +111677,12 @@
                     "confirmedValues": 8,
                     "deathValues": 0,
                     "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 14,
+                    "deathValues": 0,
+                    "recoveredValues": 0
                 }
             ]
         }
@@ -111178,6 +112282,1226 @@
                 {
                     "date": "4/29/20",
                     "confirmedValues": 6,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 6,
+                    "deathValues": 2,
+                    "recoveredValues": 0
+                }
+            ]
+        }
+    },
+    "Comoros": {
+        "state": "",
+        "data": {
+            "Dates": [
+                {
+                    "date": "1/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/30/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/31/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/30/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/31/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 1,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                }
+            ]
+        }
+    },
+    "Tajikistan": {
+        "state": "",
+        "data": {
+            "Dates": [
+                {
+                    "date": "1/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/30/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "1/31/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "2/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/30/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "3/31/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/1/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/2/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/3/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/4/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/5/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/6/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/7/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/8/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/9/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/10/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/11/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/12/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/13/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/14/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/15/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/16/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/17/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/18/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/19/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/20/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/21/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/22/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/23/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/24/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/25/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/26/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/27/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/28/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/29/20",
+                    "confirmedValues": 0,
+                    "deathValues": 0,
+                    "recoveredValues": 0
+                },
+                {
+                    "date": "4/30/20",
+                    "confirmedValues": 15,
                     "deathValues": 0,
                     "recoveredValues": 0
                 }
