@@ -9,7 +9,7 @@ cat > src/lastUpdate.txt
 # Current date
 CD=`cat src/lastUpdate.txt`
 
-if [ "$LD" == "$CD" ]; then # File dates are not the same, run npm start
+if [ true ]; then # File dates are not the same, run npm start
     echo "Running update script..."
     npm run download
     node src/push.js

@@ -54,8 +54,14 @@ function getDays (arr) {
     for (let i = 1; i < arr[0].length; i++) {
         const data = []
 
-        for (let j = 4; j < arr[0][i].length; j++) { // confirmed
-            data.push(new Date(dates[0][j], parseInt(arr[0][i][j]), parseInt(arr[1][i][j]), arr[2][i] ? parseInt(arr[2][i][j]) : 0))
+        for (let j = 4; j < arr[0][i].length; j++) {
+            data.push(new Date(dates[0][j],
+                parseInt(arr[0][i][j]),
+                parseInt(arr[1][i][j]),
+                arr[2][i] ? parseInt(arr[2][i][j]) : 0,
+                (j > 0) ? parseInt(arr[0][i][j]) - parseInt(arr[0][i][j - 1]) : 0,
+                (j > 0) ? parseInt(arr[1][i][j]) - parseInt(arr[1][i][j - 1]) : 0,
+                (j > 0) ? parseInt(arr[2][i][j]) - parseInt(arr[2][i][j - 1]) : 0))
         }
         finalData[arr[0][i][1]] = new CountryObj(arr[0][i][0], new DataCountry(data))
     }
@@ -76,11 +82,14 @@ class DataCountry {
 }
 
 class Date {
-    constructor (date, confirmedValues, deathValues, recoveredValues) {
+    constructor (date, confirmedValues, deathValues, recoveredValues, changeC, changeD, changeR) {
         this.date = date
-        this.confirmedValues = confirmedValues || 0
-        this.deathValues = deathValues || 0
-        this.recoveredValues = recoveredValues || 0
+        this.confirmedValues = confirmedValues
+        this.deathValues = deathValues
+        this.recoveredValues = recoveredValues
+        this.changeC = changeC
+        this.changeD = changeD
+        this.changeR = changeR
     }
 }
 // Sort this by number of confirmed cases
