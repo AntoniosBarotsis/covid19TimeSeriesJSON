@@ -1,12 +1,8 @@
 # WARNING
+
 Although the repo includes scripts that make the automatic refresh of the data possible I will **not** be hosting them therefore the
 data will be outdated. If you want to use this you'll have to clone the repo, install [jq](https://stedolan.github.io/jq/download/).
 The data from [this](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) repository was used to make this possible.
-
-## Table of Contents
-
-- [Format](#Format)
-- [How does this work?](#Info)
 
 # Format
 
