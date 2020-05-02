@@ -59,9 +59,9 @@ function getDays (arr) {
                 parseInt(arr[0][i][j]),
                 parseInt(arr[1][i][j]),
                 arr[2][i] ? parseInt(arr[2][i][j]) : 0,
-                (j > 0) ? parseInt(arr[0][i][j]) - parseInt(arr[0][i][j - 1]) : 0,
-                (j > 0) ? parseInt(arr[1][i][j]) - parseInt(arr[1][i][j - 1]) : 0,
-                arr[2][i] ? (j > 0) ? parseInt(arr[2][i][j]) - parseInt(arr[2][i][j - 1]) : 0 : 0))
+                (j > 4) ? parseInt(arr[0][i][j]) - parseInt(arr[0][i][j - 1]) : 0,
+                (j > 4) ? parseInt(arr[1][i][j]) - parseInt(arr[1][i][j - 1]) : 0,
+                arr[2][i] ? (j > 4) ? parseInt(arr[2][i][j]) - parseInt(arr[2][i][j - 1]) : 0 : 0))
         }
         finalData[arr[0][i][1]] = new CountryObj(arr[0][i][0], new DataCountry(data))
     }
