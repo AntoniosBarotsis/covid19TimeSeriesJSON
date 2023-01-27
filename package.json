@@ -17,7 +17,7 @@
     "request": "^2.88.2",
     "scramjet": "^4.28.7",
     "shelljs": "^0.8.4",
-    "simple-git": "^2.1.0"
+    "simple-git": "^3.16.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
